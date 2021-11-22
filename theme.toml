@@ -6,8 +6,8 @@ tags = ["presentation", "revealjs"]
 features = ["presentation"]
 
 [author]
-name = "Josh Dzielak"
-homepage = "https://dzello.com/"
+name = "Govind, ZH"
+homepage = "https://github.com/gaocn"
 
 [original]
 name = "reveal.js"

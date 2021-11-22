@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://github.com/gaocn"
 languageCode = "en-us"
 title = "A Hugo theme for creating Reveal.js presentations"
 disableKinds = ["sitemap", "RSS"]
@@ -10,7 +10,7 @@ themesDir = "../"
 # uglyURLs = true
 
 [author]
-name = "Josh Dzielak"
+name = "Govind, ZH"
 
 # currently only the unsafe mode for goldmark is supported
 [markup.goldmark.renderer]
@@ -21,7 +21,7 @@ unsafe = true
 [markup.highlight]
 codeFences = false  # use highlight.js 
 # codeFences = true  # use hugo highlighting at compile time
-style = "tango"  # set a style for hugo highlighting
+style = "rainbow"
 
 [outputFormats.Reveal]
 baseName = "index"
