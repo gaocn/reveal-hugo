@@ -1,3 +1,12 @@
+<style>
+  #caption {
+    color: {{ .Param "caption.color" }}; 
+  }
+</style>
+
+<span id="caption" class="caption">
+    {{ .Param "caption.name"}}
+</span>
 <div class="line top"></div>
 <div class="line bottom">
     <div class="line bottom left"></div>

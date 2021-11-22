@@ -11,6 +11,9 @@ transition_speed = "fast"
 [reveal_hugo.templates.hotpink]
 class = "hotpink"
 background = "#FF4081"
+[caption]
+name="第一说章"
+color="blue"
 +++
 
 # 📽️
